@@ -2,7 +2,7 @@
 
 #### 介绍
 Ruck个人博客2.0,前后端分离初体验,缓慢更新中。。。
-
+项目预览:http://106.15.121.14:8080/#/IndexContent
 #### 安装教程(新手向）
 
 1. clone本项目到本地
@@ -28,12 +28,16 @@ vue-blog文件夹下为项目前端代码,使用Vue开发。
     Mybatis
     
     Redis
+    
+    maven
 
  2.前端
 
     vue
     
     element-ui
+    
+    D2-Admin
     
 #### 项目说明
 项目还未完全开发完毕...
