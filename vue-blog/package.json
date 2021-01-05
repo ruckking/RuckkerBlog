@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@d2-projects/d2-crud": "^2.1.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "axios-cache-plugin": "^0.1.0",
     "better-scroll": "^1.15.2",
     "core-js": "^2.6.5",
